@@ -12,6 +12,6 @@ PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
 45 * * * * <PATH TO REPO>/aipi_dihjyy/script.sh
 ```
 
-The current IP address is saved in a file `aipi_dihjyy/aipi_dihjyy`.
+The current IP address is saved in a file `aipi_dihjyy`.
 
 [end]
